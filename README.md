@@ -1,1 +1,1 @@
-Independent Study Final Project
+# Independent Study Final Project
