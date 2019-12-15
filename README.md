@@ -1,1 +1,1 @@
-# web
+Independent Study Final Project
